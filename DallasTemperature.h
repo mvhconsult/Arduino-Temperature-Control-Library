@@ -1,7 +1,7 @@
 #ifndef DallasTemperature_h
 #define DallasTemperature_h
 
-#define DALLASTEMPLIBVERSION "3.7.3"
+#define DALLASTEMPLIBVERSION "3.7.4" // Following github
 
 // This library is free software; you can redistribute it and/or
 // modify it under the terms of the GNU Lesser General Public
